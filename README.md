@@ -26,15 +26,14 @@ This project provides a data-driven approach to estimate expected marks based on
 ## Technologies Used
 - Python  
 - Pandas  
-- NumPy  
-- Matplotlib  
+- NumPy    
 - Scikit-learn  
 
 ---
 
 ## Machine Learning Concept
 - Type: Supervised Learning  
-- Algorithm: Linear Regression  
+- Algorithm: Logistic Regression
 - Input Feature: Study Hours  
 - Target Variable: Marks  
 
